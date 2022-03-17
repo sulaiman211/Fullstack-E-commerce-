@@ -16,3 +16,13 @@ Our web app has fully functional features to interact with our store and purchas
 ## Team
 
 Sulaiman Marey - Robert Berman - Samuel Joh - Veysel Basbaydar
+
+# technologies 
+
+1- React.js
+2- Redux
+3- Express
+4- postgreSQl
+5- Sequelize
+5- Node.js
+
